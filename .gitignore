@@ -25,3 +25,5 @@ replay_pid*
 home assistant yaml backup 7-2-2024/configuration.yaml
 home assistant yaml backup 7-2-2024/binary_sensor.yaml
 /home assistant yaml backup 7-2-2024
+*.yml
+*.yaml
